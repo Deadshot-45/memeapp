@@ -7,6 +7,7 @@ const UserProfileHeader = () => {
   return (
     <div className="flex justify-between">
       <div className="w-1/2 mb-10">
+      <h1>Hello World</h1>
         <img
           src={user.avatar}
           alt={user.username}
