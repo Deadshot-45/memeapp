@@ -1,0 +1,249 @@
+@import "tailwindcss";
+
+body {
+  font-family: Arial, sans-serif;
+  overflow-x: hidden;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 20px;
+  background-color: #f9f9f9;
+  border: 1px solid #ddd;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+button {
+  background-color: #4CAF50;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  /* border-radius: 5px; */
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #3e8e41;
+}
+
+/* Global Styles */
+
+.dark-mode {
+  background-color: #333;
+  color: #fff;
+}
+
+.dark-mode a {
+  color: #fff;
+}
+
+.dark-mode a:hover {
+  color: #ccc;
+}
+
+/* Navbar Styles */
+
+.dark-mode .navbar {
+  background-color: #444;
+}
+
+.dark-mode .navbar a {
+  color: #fff;
+}
+
+.dark-mode .navbar a:hover {
+  color: #ccc;
+}
+
+/* Button Styles */
+
+.dark-mode .button {
+  background-color: #555;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.dark-mode .button:hover {
+  background-color: #666;
+}
+
+/* Input Styles */
+
+.dark-mode input {
+  background-color: #444;
+  color: #fff;
+  border: none;
+  padding: 10px;
+  font-size: 16px;
+}
+
+.dark-mode input:focus {
+  background-color: #555;
+}
+
+/* Textarea Styles */
+
+.dark-mode textarea {
+  background-color: #444;
+  color: #fff;
+  border: none;
+  padding: 10px;
+  font-size: 16px;
+}
+
+.dark-mode textarea:focus {
+  background-color: #555;
+}
+
+/* Table Styles */
+
+.dark-mode table {
+  background-color: #444;
+  color: #fff;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.dark-mode th, .dark-mode td {
+  border: 1px solid #555;
+  padding: 10px;
+  text-align: left;
+}
+
+.dark-mode th {
+  background-color: #555;
+}
+
+/* Other Styles */
+
+.dark-mode .footer {
+  background-color: #444;
+  color: #fff;
+  padding: 10px;
+  text-align: center;
+}
+
+.dark-mode .footer a {
+  color: #fff;
+}
+
+.dark-mode .footer a:hover {
+  color: #ccc;
+}/* Global Styles */
+
+.dark-mode {
+  background-color: #333;
+  color: #fff;
+}
+
+.dark-mode a {
+  color: #fff;
+}
+
+.dark-mode a:hover {
+  color: #ccc;
+}
+
+/* Navbar Styles */
+
+.dark-mode .navbar {
+  background-color: #444;
+}
+
+.dark-mode .navbar a {
+  color: #fff;
+}
+
+.dark-mode .navbar a:hover {
+  color: #ccc;
+}
+
+/* Button Styles */
+
+.dark-mode .button {
+  background-color: #555;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.dark-mode .button:hover {
+  background-color: #666;
+}
+
+/* Input Styles */
+
+.dark-mode input {
+  background-color: #444;
+  color: #fff;
+  border: none;
+  padding: 10px;
+  font-size: 16px;
+}
+
+.dark-mode input:focus {
+  background-color: #555;
+}
+
+/* Textarea Styles */
+
+.dark-mode textarea {
+  background-color: #444;
+  color: #fff;
+  border: none;
+  padding: 10px;
+  font-size: 16px;
+}
+
+.dark-mode textarea:focus {
+  background-color: #555;
+}
+
+/* Table Styles */
+
+.dark-mode table {
+  background-color: #444;
+  color: #fff;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.dark-mode th, .dark-mode td {
+  border: 1px solid #555;
+  padding: 10px;
+  text-align: left;
+}
+
+.dark-mode th {
+  background-color: #555;
+}
+
+/* Other Styles */
+
+.dark-mode .footer {
+  background-color: #444;
+  color: #fff;
+  padding: 10px;
+  text-align: center;
+}
+
+.dark-mode .footer a {
+  color: #fff;
+}
+
+.dark-mode .footer a:hover {
+  color: #ccc;
+}
